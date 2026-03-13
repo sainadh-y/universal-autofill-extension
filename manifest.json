@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Universal Autofill",
   "version": "1.0.1",
-  "description": "Autofill web forms using your saved profile",
+  "description": "Preview and autofill web forms using your saved Universal Autofill profile",
   "permissions": ["activeTab", "tabs", "storage", "scripting"],
   "host_permissions": ["<all_urls>", "http://localhost:5000/*"],
   "icons": {
